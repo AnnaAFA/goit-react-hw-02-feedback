@@ -1,0 +1,15 @@
+.wrap {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 10px;
+}
+
+.button {
+  border-radius: 3px;
+  padding: 10px;
+}
+
+.button:hover {
+  background-color: rgb(179, 141, 214);
+}

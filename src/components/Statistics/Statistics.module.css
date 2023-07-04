@@ -1,0 +1,27 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.good {
+  margin: 0;
+}
+
+.neutral {
+  margin: 0;
+}
+
+.bad {
+  margin: 0;
+}
+
+.total {
+  margin: 0;
+}
+
+.feedback {
+  margin: 0;
+}
